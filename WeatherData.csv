@@ -1,4 +1,4 @@
-Data,Type of Weather ,Forecast (Farenheit),Rain % ,Cloud %,Sunny %
+Data,Type of Weather ,Forecast (Farenheit),Rain_Percent,Cloud_Percent,Sunny_Percent
 "April 29, 2019",Cloudy,52,15%,51%,36%
 "April 30, 2019",Sunny,57,0%,67%,67%
 "May 01, 2019",Cloudy,53,23%,73%,50%
