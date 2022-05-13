@@ -1,0 +1,40 @@
+2022,,,,,
+Date,Type of Weather,Forecast (Farenheit),Rain % ,Cloud %,Sunny %
+"April 29, 2022",Sunny,54,0%,4%,96%
+"April 30, 2022",Sunny,54,0%,18%,82%
+"May 01, 2022",Sunny,59,0%,41%,59%
+"May 02, 2022",Rainy ,54,28%,89%,61%
+"May 03, 2022",Cloudy,57,0%,79%,21%
+"May 04, 2022",Cloudy,54,0%,100%,0%
+"May 05, 2022",Sunny,63,0%,42%,58%
+"May 06, 2022",Rainy ,54,88%,77%,23%
+2021,,,,,
+Date,Type of Weather,Forecast (Farenheit),Rain % ,Cloud %,Sunny %
+"April 29, 2021",Rainy,63,61%,69%,8%
+"April 30, 2021",Rainy,59,61%,60%,1%
+"May 01, 2021",Cloudy,52,45%,48%,3%
+"May 02, 2021",Rainy,62,56%,83%,27%
+"May 03, 2021",Rainy,59,55%,82%,27%
+"May 04, 2021",Rainy,71,59%,73%,14%
+"May 05, 2021",Rainy,59,72%,100%,28%
+"May 06, 2021",Sunny,57,0%,53%,53%
+2020,,,,,
+Date,Type of Weather ,Forecast (Farenheit),Rain % ,Cloud %,Sunny %
+"April 29, 2020",Rainy,49,72%,62%,10%
+"April 30, 2020",Rainy,55,72%,100%,28%
+"May 01, 2020",Rainy,62,100%,75%,25%
+"May 02, 2020",Cloudy,61,0%,100%,0%
+"May 03, 2020",Rainy,67,70%,54%,16%
+"May 04, 2020",Cloudy,55,23%,45%,22%
+"May 05, 2020",Sunny,53,0%,22%,22%
+"May 06, 2020",Rainy,49,50%,53%,3%
+2019,,,,,
+Data,Type of Weather ,Forecast (Farenheit),Rain % ,Cloud %,Sunny %
+"April 29, 2019",Cloudy,52,15%,51%,36%
+"April 30, 2019",Sunny,57,0%,67%,67%
+"May 01, 2019",Cloudy,53,23%,73%,50%
+"May 02, 2019",Rainy,62,51%,37%,14%
+"May 03, 2019",Cloudy,56,57%,87%,30%
+"May 04, 2019",Rainy,61,28%,84%,56%
+"May 05, 2019",Rainy,54,100%,100%,0%
+"May 06, 2019",Cloudy,60,50%,56%,6%
